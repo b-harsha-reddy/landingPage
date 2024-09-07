@@ -231,4 +231,7 @@
     #main-footer .my-name {
       margin: 1rem 0;
     }
+    #message-box{
+        margin-top: 5%;
+    }
   }
