@@ -72,10 +72,11 @@
     text-align: center;
   }
   
-  .message-box h1 {
+  .message-box p {
     font-size: 1.7rem;
     margin-bottom: 1rem;
-    margin-top: 1em;
+    margin-top: 5%;
+   
   }
   
   .message-box input {
@@ -200,14 +201,6 @@
       margin-bottom: 2rem;
     }
   
-    #how-it-work {
-      padding: 1rem;
-    }
-  
-    #how-it-work #video {
-      width: 80%;
-      height: 30%;
-    }
   
     #pricing {
       flex-direction: column;
