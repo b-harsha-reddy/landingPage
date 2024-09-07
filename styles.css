@@ -75,7 +75,8 @@
   .message-box p {
     font-size: 1.7rem;
     margin-bottom: 1rem;
-    margin-top: 5%;
+   position: relative;
+   margin-top: 5%;
    
   }
   
